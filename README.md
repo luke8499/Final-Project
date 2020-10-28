@@ -1,6 +1,6 @@
 # Final-Project Final Report
 
-(team name)
+COPS (Casual Organization for Public Safety):
 Luke Williams (lmw134@pitt.edu)
 Alexander Chlpka (arc177@pitt.edu)
 Zi Han Ding (zid8@pitt.edu)
