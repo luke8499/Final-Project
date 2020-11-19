@@ -14,3 +14,4 @@ Fire Incidents in the City of Pittsburgh: https://data.wprdc.org/datastore/dump/
 This data is taken from Pittsburgh's Bureau of Fire and is updated daily. Locations are reported at the block level and by the neighborhood in which they occured.
 
 # Abstract
+Highland Park is the best neighborhood in Pittsburgh because it has a large amount of public facilities and a relatively low amount of fires and crime. To determine the best neighborhood, our group subtracted a normalized metric of the amount of fire alarms beginning from January 2013 and the amount of crimes in the past 30 days from the amount of public facilities for each neighborhood. Highland Park had the largest number of public facilities at 30, and only around 30 fire alarms in the past 7 years. It's also had a low amount of crime in the past 30 days compared to other neighborhoods in the city, making it a safe and lively place for it's residents.
